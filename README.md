@@ -44,3 +44,9 @@ To run the tests, navigate to the tests directory and run:
    python -m unittest discover
    ```
 
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or features, feel free to fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT [License](https://github.com/SaiGawand12/Image_Encryption_System/blob/main/LICENSE) - see the  file for details.
+

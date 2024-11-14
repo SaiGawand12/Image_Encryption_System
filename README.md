@@ -15,7 +15,7 @@ This project provides an image encryption system that protects digital photos by
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image_encryption_system.git
+   git clone https://github.com/SaiGawand12/image_encryption_system.git
    cd image_encryption_system
    ```
 

@@ -2,6 +2,8 @@
 
 This project provides an image encryption system that protects digital photos by transforming them into a coded format. It ensures that only authorized individuals can access or view the image content.
 
+Click here to see [Live Demo](https://image-encryption-tool.streamlit.app/)
+
 ## Features
 
 - Encryption algorithm selection (AES)
